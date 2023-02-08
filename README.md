@@ -1,1 +1,0 @@
-# CSE-codeforces_800-1000_rating_c-
