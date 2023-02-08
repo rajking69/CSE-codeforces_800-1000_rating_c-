@@ -1,0 +1,39 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+int main()
+
+{
+
+    int x,j;
+
+    char z;
+
+    cin>>x;
+
+    for(j=0; j<x; j++)
+
+    {
+
+        cin>>z;
+
+        if((z=='c')||(z=='o')||(z=='c')||(z=='o')||(z=='d')||(z=='e')||(z=='c')||(z=='f')||(z=='o')||(z=='r')||(z=='s')||(z=='e'))
+
+        {
+
+            cout<<"YES"<<endl;
+
+        }
+
+        else
+
+        {
+
+            cout<<"NO"<<endl;
+
+        }
+
+    }
+
+}
